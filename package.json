@@ -1,0 +1,15 @@
+{ 
+	"name" :            "node-mongo-vacationplanner",
+	"description" :     "A sample vacation planner tool for teams",
+	"author":          "Christian Amor Kvalheim <christkv@gmail.com>",
+	"version" :         "0.1.0",
+	"dependencies": {
+    	"express": ">=1.2.0",
+    	"jade": ">=0.1.0",
+    	"mongodb": ">=0.9.6",
+    	"oauth": ">=0.1.0",
+		"connect-redis": ">=0.1.0",
+    	"winston": ">=0.1.0"
+  	  },
+	"engines" :       { "node" : ">=0.4.0" }
+}
